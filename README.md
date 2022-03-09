@@ -1,1 +1,1 @@
-# FunctionalProgrammingInJava
+# FunctionalJava
